@@ -1,5 +1,5 @@
 # collab
-A Collaboritive Writing Game
+A Collaborative Writing Game
 
 Collab is a social network implemented entirely with text files. No database. I am running this test version of Collab here.
 
