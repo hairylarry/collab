@@ -9,11 +9,19 @@ The 2018-04-30 version has create story, continue story, user management, readin
 
 In the directory usernames we need a file username.txt like this.
 
+-----
+
 000001 (user id)
+
 username@example.com (contact email)
+
 1!2@3D4v5% (encrypted password)
+
 username
+
 10000 (notification flags)
+
+-----
 
 In the directory userids we need a file userid.txt (000001.txt) like this
 
